@@ -1,0 +1,7 @@
+{
+  "name": "AI Product Studio",
+  "description": "An application to enhance product photos with AI-generated backgrounds and automatically generate product details using Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
